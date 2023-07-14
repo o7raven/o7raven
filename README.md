@@ -1,7 +1,5 @@
 
-# Hi, I'm Raven! 👋
-
-⛈️
+# 👋
 
 ## 🔗 Links
 [![github](https://img.shields.io/badge/github-1388?style=for-the-badge&logo=github&logoColor=white)](https://twitter.com/o7raven)
